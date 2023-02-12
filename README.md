@@ -23,3 +23,34 @@
 10. Select your GitHub account and select your repository to link it in Webstorm.
 
 ## Part 2 Glossary
+### Branch
+Copy of repository where changes are not reflected until the 2 versions are combined.
+### Clone
+Copy of repository that lives locally. Can be synced with online version.
+### Commit
+Change to code that is saved and given an ID. Usually has message attached.
+### Fetch
+Brings remote repository changes to your local, but allows you to review them before adding them.
+### GIT
+Program for tracking changes to files.
+### Github
+Location where git repositories are stored in the cloud.
+### Merge
+Takes 2 branches and combines them. 
+### Merge Conflict
+When 2 branches have conflicting information in the same file. 
+Could be different information on the same line of the same file or a file is not deleted in one branch.
+### Push
+Send changes from local repository to remote one.
+### Pull
+Bring changes from remote repository to local one.
+### Remote
+Being hosted somewhere else that is not on your local machine. Usually a web server.
+### Repository
+A project folder, stores all files, revisions, and versions.
+
+## References
+[GitHub Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)  
+[Class Slideshow](https://njit.instructure.com/courses/27647/files/4486848?module_item_id=981474)
+
+
